@@ -1,28 +1,38 @@
-# 📄 Formulário Estático de Inscrição – Programa de Formação SECTI + FAPEMA
+📄 Formulário Estático de Inscrição – Programa de Formação SECTI + FAPEMA
+🎯 Objetivo e Contexto
+Este projeto foi desenvolvido como parte do Programa de Formação SECTI + FAPEMA, com o intuito de aplicar, de forma prática, os conhecimentos adquiridos durante o curso. O objetivo principal é coletar dados dos participantes interessados no programa, simulando um cenário real de desenvolvimento web.
 
-## 🎯 Objetivo e Contexto
-O projeto foi desenvolvido com o intuito de aplicar nossos conhecimentos adquiridos no programa de formação de maneira prática, resolvendo um exemplo de um problema real. O objetivo principal é coletar informações dos participantes para sua participação no programa.
+🛠 Tecnologias Utilizadas
+🌐 HTML – estruturação do formulário
 
-## 🛠 Tecnologias Utilizadas
-- 🌐 HTML
-- 🎨 CSS
+🎨 CSS – estilização da interface
 
-## ⭐ Principais Funcionalidades e Destaques
-- ✅ Campos com preenchimento obrigatório
-- 📩 Botões de envio e cancelamento do formulário
+⚙️ JavaScript – validações de campos e uso do LocalStorage
 
-## 📚 Aprendizados e Desafios
-O projeto nos instigou a aprender novos conhecimentos ainda não explorados, incentivando a busca por informações e a aplicação prática delas.
+⭐ Funcionalidades e Destaques
+✅ Campos com preenchimento obrigatório
 
-## 🚀 Próximos Passos ou Evoluções
-- 📱 Tornar o site responsivo para dispositivos móveis
-- 🗄 Implementação de um banco de dados
+📩 Botões de envio e cancelamento do formulário
 
-## 📬 Contato/Links
+🔐 Validação de campos com feedback ao usuário
 
-### 👤 Karl Marx de Jesus Moraes
-- 🐙 Github: [Marx-code](https://github.com/Marx-code)
-- ✉️ Email: karlmarxjesusmoraesdev@gmail.com
+💾 Armazenamento temporário das informações com LocalStorage
 
-### 👤 Bruna
-- 🐙 Github: [gabyzGP](https://github.com/gabyzGP)
+📱 Site responsivo, adaptável a diferentes tamanhos de tela
+
+📚 Aprendizados e Desafios
+Durante o desenvolvimento, enfrentamos desafios que nos motivaram a explorar novas soluções e aprimorar nosso domínio em HTML, CSS e JavaScript. Também foi uma oportunidade de entender melhor o processo de criação de interfaces amigáveis e funcionais.
+
+🚀 Próximos Passos
+🗃️ Integração com um banco de dados real para armazenar os dados enviados
+
+🔄 Melhorar a experiência do usuário com mensagens de confirmação e validações visuais
+
+📬 Contato
+👤 Karl Marx de Jesus Moraes
+🐙 GitHub: Marx-code
+
+✉️ Email: karlmarxjesusmoraesdev@gmail.com
+
+👤 Bruna
+🐙 GitHub: gabyzGP
