@@ -22,6 +22,21 @@ Durante o desenvolvimento, enfrentamos desafios que nos motivaram a **explorar n
 - 🗃️ Integração com um **banco de dados real** para armazenar os dados enviados  
 - 🔄 Melhorar a **experiência do usuário** com mensagens de confirmação e validações visuais
 
+## 🖥 Como Rodar o Projeto no Seu Computador
+
+1. **Baixe o repositório:**
+
+   - clique no botão verde **"Code"** no topo da página do repositório e depois em **"Download ZIP"**.
+
+3. **Extraia os arquivos (caso tenha baixado como ZIP).**
+
+4. **Abra o projeto:**
+   - Vá até a pasta do projeto.
+   - Dê **dois cliques no arquivo `index.html`**.
+   - O formulário será aberto automaticamente no seu navegador padrão.
+
+> ✅ Pronto! Agora você pode visualizar e interagir com o formulário diretamente no seu navegador, sem precisar instalar nada adicional.
+
 ## 📬 Contato
 
 ### 👤 Karl Marx de Jesus Moraes  
