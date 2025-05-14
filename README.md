@@ -44,4 +44,4 @@ Durante o desenvolvimento, enfrentamos desafios que nos motivaram a **explorar n
 - ✉️ Email: karlmarxjesusmoraesdev@gmail.com
 
 ### 👤 Bruna  
-- 🐙 GitHub: [gabyzGP](https://github.com/gabyzGP)
+- 🐙 GitHub: [gabyz-dev](https://github.com/gabyz-dev)
