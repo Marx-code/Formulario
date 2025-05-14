@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como parte do **Programa de Formação SECTI + FAP
 - 📩 Botões de envio e cancelamento do formulário  
 - 🔐 **Validação de campos** com feedback ao usuário  
 - 💾 Armazenamento temporário das informações com **LocalStorage**  
-- 📱 **Site responsivo**, adaptável a diferentes tamanhos de tela
+
 
 ## 📚 Aprendizados e Desafios  
 Durante o desenvolvimento, enfrentamos desafios que nos motivaram a **explorar novas soluções e aprimorar nosso domínio em HTML, CSS e JavaScript**. Também foi uma oportunidade de entender melhor o processo de **criação de interfaces amigáveis e funcionais**.
