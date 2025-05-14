@@ -12,7 +12,8 @@ Este projeto foi desenvolvido como parte do **Programa de Formação SECTI + FAP
 - ✅ Campos com preenchimento obrigatório  
 - 📩 Botões de envio e cancelamento do formulário  
 - 🔐 **Validação de campos** com feedback ao usuário  
-- 💾 Armazenamento temporário das informações com **LocalStorage**  
+- 💾 Armazenamento temporário das informações com **LocalStorage**
+- 📱 **Site responsivo**, adaptável a diferentes tamanhos de tela
 
 
 ## 📚 Aprendizados e Desafios  
